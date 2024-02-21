@@ -136,3 +136,28 @@ i:hover{
   color: #cac4f2;
   font-size: 50px;
 }
+
+#project-section{
+
+    background-color: rgba(59,76,93,0.3);  
+    margin-top: 10vh;
+    color: #d9d9d9;
+    padding-top: 40px;
+  padding-bottom: 60px;
+  border-radius: 60px;
+
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: #d9d9d9;
+  transition-duration: .2s !important;
+  height: 100%;
+
+}
+
+.card:hover {
+  background-color: rgba(74, 74, 255, 0.1);
+  color: #d9d9d9;
+  width: 16rem !important;
+}
